@@ -2,7 +2,7 @@
   "name": "lexi30",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://superjisan.com/lexi30",
+  "homepage": "https://superjisan.github.io/maggie30",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -11,7 +11,7 @@
     "react-dom": "^16.12.0",
     "react-images": "^1.0.0",
     "react-photo-gallery": "^8.0.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "^3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
