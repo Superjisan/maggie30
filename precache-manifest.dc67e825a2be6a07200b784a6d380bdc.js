@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9109e720e9373d098e79e1ba9d9868bc",
+    "revision": "3f079a975cb7aaf8acf67a0e54eb5131",
     "url": "/maggie30/index.html"
   },
   {
-    "revision": "41d8ca1aeb7bdbbd3ec5",
+    "revision": "ae2032db3b0f76eadd51",
     "url": "/maggie30/static/css/main.dc0a14bb.chunk.css"
   },
   {
-    "revision": "42dc502d426f773c9ba3",
-    "url": "/maggie30/static/js/2.533e586c.chunk.js"
+    "revision": "577f18810f661d4197df",
+    "url": "/maggie30/static/js/2.fc915368.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/maggie30/static/js/2.533e586c.chunk.js.LICENSE.txt"
+    "url": "/maggie30/static/js/2.fc915368.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41d8ca1aeb7bdbbd3ec5",
-    "url": "/maggie30/static/js/main.b37fdfc7.chunk.js"
+    "revision": "ae2032db3b0f76eadd51",
+    "url": "/maggie30/static/js/main.f6b91df3.chunk.js"
   },
   {
-    "revision": "fb76b51663ea4b6fc480",
-    "url": "/maggie30/static/js/runtime-main.56dab7f3.js"
+    "revision": "d9fa32e27ac562e45773",
+    "url": "/maggie30/static/js/runtime-main.0c643d2f.js"
   },
   {
     "revision": "2203bcb7fd2db22937824fa4f6b25135",
