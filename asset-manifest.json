@@ -1,29 +1,43 @@
 {
   "files": {
     "main.css": "/maggie30/static/css/main.5f361e03.chunk.css",
-    "main.js": "/maggie30/static/js/main.df4ce58a.chunk.js",
-    "main.js.map": "/maggie30/static/js/main.df4ce58a.chunk.js.map",
+    "main.js": "/maggie30/static/js/main.4ef7b476.chunk.js",
+    "main.js.map": "/maggie30/static/js/main.4ef7b476.chunk.js.map",
     "runtime-main.js": "/maggie30/static/js/runtime-main.0c643d2f.js",
     "runtime-main.js.map": "/maggie30/static/js/runtime-main.0c643d2f.js.map",
-    "static/js/2.1b5899e0.chunk.js": "/maggie30/static/js/2.1b5899e0.chunk.js",
-    "static/js/2.1b5899e0.chunk.js.map": "/maggie30/static/js/2.1b5899e0.chunk.js.map",
+    "static/js/2.0453bfc9.chunk.js": "/maggie30/static/js/2.0453bfc9.chunk.js",
+    "static/js/2.0453bfc9.chunk.js.map": "/maggie30/static/js/2.0453bfc9.chunk.js.map",
     "index.html": "/maggie30/index.html",
-    "precache-manifest.3704946a476322e96e41001b426993c6.js": "/maggie30/precache-manifest.3704946a476322e96e41001b426993c6.js",
+    "precache-manifest.a9f07c9cbdeded9d9bf7c2ff09ebefd9.js": "/maggie30/precache-manifest.a9f07c9cbdeded9d9bf7c2ff09ebefd9.js",
     "service-worker.js": "/maggie30/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/maggie30/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1b5899e0.chunk.js.LICENSE.txt": "/maggie30/static/js/2.1b5899e0.chunk.js.LICENSE.txt",
+    "static/js/2.0453bfc9.chunk.js.LICENSE.txt": "/maggie30/static/js/2.0453bfc9.chunk.js.LICENSE.txt",
+    "static/media/birthday-2016.jpg": "/maggie30/static/media/birthday-2016.3ec3c190.jpg",
+    "static/media/bridesmaid.png": "/maggie30/static/media/bridesmaid.cff18c92.png",
+    "static/media/camping.jpg": "/maggie30/static/media/camping.4154c515.jpg",
+    "static/media/christmas-2017.jpg": "/maggie30/static/media/christmas-2017.a0ce9e13.jpg",
     "static/media/classy-af.jpg": "/maggie30/static/media/classy-af.0b247b59.jpg",
+    "static/media/cuba-gangsta.png": "/maggie30/static/media/cuba-gangsta.479a529c.png",
+    "static/media/glasses.png": "/maggie30/static/media/glasses.145a578c.png",
+    "static/media/gold-toilet.png": "/maggie30/static/media/gold-toilet.fd7b2cd4.png",
     "static/media/hotness.jpg": "/maggie30/static/media/hotness.0fadb32a.jpg",
+    "static/media/japanese-dress.png": "/maggie30/static/media/japanese-dress.57e943e9.png",
     "static/media/laurapose.jpg": "/maggie30/static/media/laurapose.a944fa11.jpg",
+    "static/media/maddie.png": "/maggie30/static/media/maddie.c18bcfa3.png",
+    "static/media/noodles.png": "/maggie30/static/media/noodles.e70ab8b1.png",
     "static/media/not-weird.jpg": "/maggie30/static/media/not-weird.f1c384e8.jpg",
+    "static/media/peace.jpg": "/maggie30/static/media/peace.af9d5be2.jpg",
+    "static/media/peppers.png": "/maggie30/static/media/peppers.c71bfec5.png",
     "static/media/pigeondance.jpg": "/maggie30/static/media/pigeondance.cf2c8a8b.jpg",
     "static/media/poison-ivy.jpg": "/maggie30/static/media/poison-ivy.6e532493.jpg",
-    "static/media/scheming.jpg": "/maggie30/static/media/scheming.f1e6150a.jpg"
+    "static/media/rock-elegant.jpg": "/maggie30/static/media/rock-elegant.8fb82ec5.jpg",
+    "static/media/scheming.jpg": "/maggie30/static/media/scheming.f1e6150a.jpg",
+    "static/media/swimming.png": "/maggie30/static/media/swimming.e8f7517f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0c643d2f.js",
-    "static/js/2.1b5899e0.chunk.js",
+    "static/js/2.0453bfc9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.df4ce58a.chunk.js"
+    "static/js/main.4ef7b476.chunk.js"
   ]
 }
