@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "796375445f21f38532c16d0c04427f0d",
+    "revision": "aa702a132c301f6084c5de210a87107b",
     "url": "/maggie30/index.html"
   },
   {
-    "revision": "43a21dd2144778f043a2",
+    "revision": "0d5b13c3a64f1d63042e",
     "url": "/maggie30/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "14f98a22b5744a589727",
-    "url": "/maggie30/static/js/2.0453bfc9.chunk.js"
+    "revision": "577f18810f661d4197df",
+    "url": "/maggie30/static/js/2.fc915368.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/maggie30/static/js/2.0453bfc9.chunk.js.LICENSE.txt"
+    "url": "/maggie30/static/js/2.fc915368.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43a21dd2144778f043a2",
-    "url": "/maggie30/static/js/main.4ef7b476.chunk.js"
+    "revision": "0d5b13c3a64f1d63042e",
+    "url": "/maggie30/static/js/main.ee084196.chunk.js"
   },
   {
     "revision": "d9fa32e27ac562e45773",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maggie30/static/media/classy-af.0b247b59.jpg"
   },
   {
+    "revision": "2ed3cfb688cf19d57d1884274e00aae9",
+    "url": "/maggie30/static/media/corkscrew.2ed3cfb6.jpg"
+  },
+  {
     "revision": "479a529c7593a87a17cabafe0a06f15f",
     "url": "/maggie30/static/media/cuba-gangsta.479a529c.png"
   },
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fd7b2cd4432a2fd7ac771f5e210b2fda",
     "url": "/maggie30/static/media/gold-toilet.fd7b2cd4.png"
+  },
+  {
+    "revision": "3ffa0c7a81c334ed47b2afd716406ce0",
+    "url": "/maggie30/static/media/hard-at-work.3ffa0c7a.jpg"
   },
   {
     "revision": "0fadb32aea0c36c3cbf458ce743233ab",
@@ -76,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maggie30/static/media/noodles.e70ab8b1.png"
   },
   {
+    "revision": "fc226691329542d138a208285efb4201",
+    "url": "/maggie30/static/media/not-impressed.fc226691.jpg"
+  },
+  {
     "revision": "f1c384e8a2c85d67887d145de215f0f4",
     "url": "/maggie30/static/media/not-weird.f1c384e8.jpg"
   },
@@ -96,6 +108,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maggie30/static/media/poison-ivy.6e532493.jpg"
   },
   {
+    "revision": "6e41ea5ebe54fa4d48a7092327759307",
+    "url": "/maggie30/static/media/prom.6e41ea5e.jpg"
+  },
+  {
+    "revision": "467de972ee6448a44ce244cd34aabae7",
+    "url": "/maggie30/static/media/pure-joy.467de972.jpg"
+  },
+  {
     "revision": "8fb82ec5a0ea8c20d6d3a78a4faa3221",
     "url": "/maggie30/static/media/rock-elegant.8fb82ec5.jpg"
   },
@@ -104,7 +124,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maggie30/static/media/scheming.f1e6150a.jpg"
   },
   {
+    "revision": "017e4628da586deb556a531e0b3c8a73",
+    "url": "/maggie30/static/media/shakespeare.017e4628.jpg"
+  },
+  {
+    "revision": "434d4e6adec9d1c69a27e4d88fbd94fe",
+    "url": "/maggie30/static/media/sister-pose.434d4e6a.jpg"
+  },
+  {
     "revision": "e8f7517f5d30112d5ed942b880493c31",
     "url": "/maggie30/static/media/swimming.e8f7517f.png"
+  },
+  {
+    "revision": "677646cd6dd1bee95648cb4bc8a237c9",
+    "url": "/maggie30/static/media/victory.677646cd.jpg"
+  },
+  {
+    "revision": "74416c25eb8ae3e8a2676644d6f08851",
+    "url": "/maggie30/static/media/wings.74416c25.jpg"
   }
 ]);
